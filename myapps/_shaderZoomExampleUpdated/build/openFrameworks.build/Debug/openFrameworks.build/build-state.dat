@@ -1,0 +1,1743 @@
+TopenFrameworks
+v7
+r3
+t318849471.211271
+cCheck dependencies
+cProcessInfoPlistFile /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin//openFrameworksDebug.app/Contents/Info.plist openFrameworks-Info.plist
+cCopyPlistFile /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin/openFrameworksDebug.app/Contents/Resources/openFrameworks-Info.plist openFrameworks-Info.plist
+cProcessPCH++ /var/folders/WN/WNgB7daFEEiqj6uSEEUaRk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Carbon-aoiijukajpcbifbjmipvksnvbvee/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/main.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/testApp.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofAppRunner.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofArduino.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofArduino.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofSerial.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofStandardFirmata.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofStandardFirmata.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofBitmapFont.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofBitmapFont.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofGraphics.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofImage.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofImage.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/float.h
+c000000004AB3AF230000000000001538
+t1253289763
+s5432
+
+N/Developer/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004AB3AF230000000000003197
+t1253289763
+s12695
+i<machine/ansi.h>
+i<sys/_types.h>
+
+N/System/Library/Frameworks/AGL.framework/AGL
+c000000004BD2589F0000000000043820
+t1272076447
+s276512
+
+N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c000000004A12050E0000000000022140
+t1242694926
+s139584
+
+N/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.h
+c000000004C46DAC00000000000000477
+t1279711936
+s1143
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CD6066B00000000004D2720
+t1289094763
+s5056288
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004C0FDD7E000000000000A5F0
+t1276108158
+s42480
+
+N/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004C44E75100000000000005FF
+t1279584081
+s1535
+
+N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004CD4F57800000000002181A0
+t1289024888
+s2195872
+
+N/System/Library/Frameworks/CoreAudio.framework/Headers/AudioHardware.h
+c000000004A73D820000000000002DC86
+t1249105952
+s187526
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004CD606A40000000000781330
+t1289094820
+s7869232
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004C23F49F0000000000021710
+t1277424799
+s136976
+
+N/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
+c000000004C46BBD80000000000000401
+t1279704024
+s1025
+
+N/System/Library/Frameworks/GLUT.framework/GLUT
+c000000004A12475500000000001A2920
+t1242711893
+s1714464
+
+N/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+c000000004A124745000000000000578C
+t1242711877
+s22412
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004AB445900000000000025B59
+t1253328272
+s154457
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c000000004AB445900000000000003F84
+t1253328272
+s16260
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004D22BC490000000000043330
+t1294122057
+s275248
+
+N/System/Library/Frameworks/QuickTime.framework/Headers/QuickTime.h
+c000000004A67D2EF0000000000000659
+t1248318191
+s1625
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c000000004CD605B90000000000783950
+t1289094585
+s7878992
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/GLee/include/GLee.h
+c000000004CE42E080000000000090A87
+t1290022408
+s592519
+i<windows.h>
+i<GL/gl.h>
+i<OpenGL/gl.h>
+i<GL/gl.h>
+i<GL/glx.h>
+i<stddef.h>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/GLee/lib/GLee.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/fmodex/inc/fmod.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/fmodex/inc/fmod_errors.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/fmodex/lib/libfmodex.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/freeimage/include/FreeImage.h
+c000000004CE42E08000000000000CC1B
+t1290022408
+s52251
+i<wchar.h>
+i<inttypes.h>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/freeimage/lib/freeimage.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/freetype/include/ft2build.h
+c000000004CE42E080000000000000F32
+t1290022408
+s3890
+i<freetype/config/ftheader.h>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/freetype/lib/freetype.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp
+c000000004CE42E080000000000004730
+t1290022408
+s18224
+i"ofAppGlutWindow.h"
+i"ofBaseApp.h"
+i"ofMain.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.h
+c000000004CE42E08000000000000066B
+t1290022408
+s1643
+i"ofConstants.h"
+i"ofAppBaseWindow.h"
+i"glut.h"
+i<GLUT/glut.h>
+i<GL/glut.h>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp
+c000000004CE42E080000000000001876
+t1290022408
+s6262
+i"ofAppRunner.h"
+i"ofAppiPhoneWindow.h"
+i"ofAppGlutWindow.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h
+c000000004CE42E08000000000000050D
+t1290022408
+s1293
+i"ofMain.h"
+i"ofBaseApp.h"
+i"ofAppBaseWindow.h"
+i"ofAppGlutWindow.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofBaseApp.h
+c000000004CE42E080000000000000376
+t1290022408
+s886
+i"ofTypes.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofArduino.cpp
+c000000004CE42E080000000000004269
+t1290022408
+s17001
+i"ofArduino.h"
+i"ofUtils.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofArduino.h
+c000000004CE42E080000000000003D3C
+t1290022408
+s15676
+i<list>
+i<vector>
+i<string>
+i<iostream>
+i"ofEvents.h"
+i"ofSerial.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp
+c000000004CE42E080000000000004991
+t1290022408
+s18833
+i"ofSerial.h"
+i"ofMain.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.h
+c000000004CE42E080000000000000D2E
+t1290022408
+s3374
+i"ofConstants.h"
+i<termios.h>
+i<sys/ioctl.h>
+i<getopt.h>
+i<dirent.h>
+i<winbase.h>
+i<tchar.h>
+i<iostream>
+i<string.h>
+i<setupapi.h>
+i<regstr.h>
+i<winioctl.h>
+i<initguid.h>
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<fcntl.h>
+i<errno.h>
+i<ctype.h>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofStandardFirmata.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/events/ofEvents.h
+c000000004CE42E08000000000000126C
+t1290022408
+s4716
+i"ofConstants.h"
+i"ofUtils.h"
+i"ofEventUtils.h"
+i"ofxEventUtils.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofBitmapFont.cpp
+c000000004CE42E080000000000009D17
+t1290022408
+s40215
+i"ofBitmapFont.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp
+c000000004CE42E0800000000000081A7
+t1290022408
+s33191
+i"ofGraphics.h"
+i"ofAppRunner.h"
+i"ofBitmapFont.h"
+i<OpenGL/glu.h>
+i"glu.h"
+i"GL/glu.h"
+i"glu.h"
+i<vector>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.h
+c000000004CE42E080000000000000D63
+t1290022408
+s3427
+i"ofConstants.h"
+i"ofTypes.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofImage.cpp
+c000000004CE42E080000000000003F3D
+t1290022408
+s16189
+i"ofImage.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofImage.h
+c000000004CE42E080000000000000D09
+t1290022408
+s3337
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofGraphics.h"
+i"ofAppRunner.h"
+i"FreeImage.h"
+i"ofUtils.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofTexture.cpp
+c000000004CE42E08000000000000481C
+t1290022408
+s18460
+i"ofTexture.h"
+i"ofUtils.h"
+i"ofAppRunner.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofTexture.h
+c000000004CE42E080000000000000C4B
+t1290022408
+s3147
+i"ofConstants.h"
+i"ofGraphics.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofTrueTypeFont.cpp
+c000000004CE42E080000000000006D00
+t1290022408
+s27904
+i"ofTrueTypeFont.h"
+i<ft2build.h>
+i<freetype/freetype.h>
+i<freetype/ftglyph.h>
+i<freetype/ftoutln.h>
+i<freetype/fttrigon.h>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofTrueTypeFont.h
+c000000004CE42E08000000000000087A
+t1290022408
+s2170
+i"ofConstants.h"
+i"ofGraphics.h"
+i"ofUtils.h"
+i"ofTypes.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h
+c000000004CE42E080000000000000347
+t1290022408
+s839
+i"ofConstants.h"
+i"ofMath.h"
+i"ofUtils.h"
+i"ofTypes.h"
+i"ofSerial.h"
+i"ofArduino.h"
+i"ofTexture.h"
+i"ofTrueTypeFont.h"
+i"ofGraphics.h"
+i"ofImage.h"
+i"ofBaseApp.h"
+i"ofAppRunner.h"
+i"ofSoundStream.h"
+i"ofSoundPlayer.h"
+i"ofVideoGrabber.h"
+i"ofVideoPlayer.h"
+i"ofEvents.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.cpp
+c000000004CE42E080000000000002413
+t1290022408
+s9235
+i"ofSoundPlayer.h"
+i"ofUtils.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h
+c000000004CE42E0800000000000006C3
+t1290022408
+s1731
+i"ofConstants.h"
+i"fmod.h"
+i"fmod_errors.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundStream.cpp
+c000000004CE42E08000000000000143C
+t1290022408
+s5180
+i"ofSoundStream.h"
+i"RtAudio.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundStream.h
+c000000004CE42E080000000000000254
+t1290022408
+s596
+i"ofConstants.h"
+i"ofBaseApp.h"
+i"ofEvents.h"
+i"ofMath.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/utils/ofConstants.h
+c000000004CE42E080000000000002ACC
+t1290022408
+s10956
+i<TargetConditionals.h>
+i<windows.h>
+i"GLee.h"
+i"glu.h"
+i<unistd.h>
+i"GLee.h"
+i<OpenGL/glu.h>
+i<ApplicationServices/ApplicationServices.h>
+i<unistd.h>
+i"GLee.h"
+i<GL/glu.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<cstdlib>
+i<cstdio>
+i<cstdarg>
+i<cmath>
+i<ctime>
+i<cstdlib>
+i<string>
+i<iostream>
+i<vector>
+i<cstring>
+i<sstream>
+i<iomanip>
+i<fstream>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/utils/ofMath.cpp
+c000000004CE42E080000000000002440
+t1290022408
+s9280
+i"ofMath.h"
+i"ofAppRunner.h"
+i"float.h"
+i<sys/time.h>
+i"ofNoise.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/utils/ofMath.h
+c000000004CE42E080000000000000A66
+t1290022408
+s2662
+i"ofConstants.h"
+i"ofTypes.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/utils/ofTypes.h
+c000000004CE42E080000000000001D5F
+t1290022408
+s7519
+i"ofConstants.h"
+i"ofUtils.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/utils/ofUtils.cpp
+c000000004CE42E080000000000002A00
+t1290022408
+s10752
+i"ofUtils.h"
+i"ofImage.h"
+i"sys/time.h"
+i<mmsystem.h>
+i<direct.h>
+i<mach-o/dyld.h>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/utils/ofUtils.h
+c000000004CE42E0800000000000005A4
+t1290022408
+s1444
+i"ofConstants.h"
+i<shellapi.h>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/video/ofQtUtils.cpp
+c000000004CE42E0800000000000024FB
+t1290022408
+s9467
+i"ofQtUtils.h"
+i"ofUtils.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/video/ofUCUtils.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/video/ofUCUtils.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/video/ofVideoGrabber.cpp
+c000000004CE42E080000000000007E9C
+t1290022408
+s32412
+i"ofVideoGrabber.h"
+i"ofUtils.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/video/ofVideoGrabber.h
+c000000004CE42E080000000000000C9C
+t1290022408
+s3228
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofGraphics.h"
+i"ofTypes.h"
+i"ofQtUtils.h"
+i"videoInput.h"
+i"ofUCUtils.h"
+i"ofGstUtils.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/video/ofVideoPlayer.cpp
+c000000004CE42E080000000000006CCD
+t1290022408
+s27853
+i"ofVideoPlayer.h"
+i"ofUtils.h"
+i<gst/video/video.h>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/video/ofVideoPlayer.h
+c000000004CE42E080000000000000C33
+t1290022408
+s3123
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofGstUtils.h"
+i"ofQtUtils.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/poco/lib/libCppUnit.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/poco/lib/libPocoFoundation.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/poco/lib/libPocoNet.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/poco/lib/libPocoUtil.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/poco/lib/libPocoXML.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/rtAudio/include/RtAudio.h
+c000000004CE42E0E0000000000009B55
+t1290022414
+s39765
+i<string>
+i<vector>
+i"RtError.h"
+i<windows.h>
+i<process.h>
+i<pthread.h>
+i<sys/time.h>
+i<sstream>
+i<CoreAudio/AudioHardware.h>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/rtAudio/lib/rtAudio.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin//openFrameworksDebug.app
+t1297156612
+s102
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin//openFrameworksDebug.app/Contents/Info.plist
+t1297156612
+s623
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin//openFrameworksDebug.app/Contents/MacOS/openFrameworksDebug
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin//openFrameworksDebug.app/Contents/PkgInfo
+t1297156612
+s8
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin/openFrameworksDebug.app/Contents/Resources/openFrameworks-Info.plist
+t1297156612
+s631
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofAppRunner.o
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofArduino.o
+t1297156667
+s1446612
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofBitmapFont.o
+t1297156669
+s81668
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofGraphics.o
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofImage.o
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofMath.o
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofQtUtils.o
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofSerial.o
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofSoundPlayer.o
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofSoundStream.o
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofStandardFirmata.o
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofTexture.o
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofTrueTypeFont.o
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofUCUtils.o
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofUtils.o
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofxFBOTexture.o
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofxShader.o
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/openFrameworksDebug.LinkFileList
+c000000004D510A040000000000001063
+t1297156612
+s4195
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/shaderZoom.o
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/testApp.o
+t2
+s0
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+c000000004D510A04000000000000010F
+t1297156612
+s271
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/openFrameworks-Info.plist
+c0000000045E1F16E0000000000000277
+t1172435310
+s631
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/addons/ofxFBOTexture.cpp
+c000000004AD0F6520000000000001B86
+t1255208530
+s7046
+i"ofxFBOTexture.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/addons/ofxFBOTexture.h
+c000000004AD0F43E00000000000004D3
+t1255207998
+s1235
+i"ofMain.h"
+i<iostream>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/addons/ofxShader.cpp
+c000000004AC817BA000000000000184C
+t1254627258
+s6220
+i"ofxShader.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/addons/ofxShader.h
+c000000004AC811CA0000000000000575
+t1254625738
+s1397
+i"ofMain.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/examples/shaderZoom.cpp
+c000000004ADAD8FE000000000000063A
+t1255856382
+s1594
+i"shaderZoom.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/examples/shaderZoom.h
+c000000004ADAD876000000000000025F
+t1255856246
+s607
+i"ofMain.h"
+i"ofxShader.h"
+i"ofxFBOTexture.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp
+c000000004ADAD0CC000000000000019E
+t1255854284
+s414
+i"ofMain.h"
+i"testApp.h"
+i"ofAppGlutWindow.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp
+c000000004ADB485A0000000000000674
+t1255884890
+s1652
+i"testApp.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.h
+c000000004ADAD6860000000000000246
+t1255855750
+s582
+i"ofMain.h"
+i"ofxFBOTexture.h"
+i"ofxShader.h"
+i"shaderZoom.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/app/ofAppBaseWindow.h
+c000000004CE42E080000000000000446
+t1290022408
+s1094
+i"ofTypes.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/app/ofAppGlutWindow.h
+c000000004CE42E08000000000000066B
+t1290022408
+s1643
+i"ofConstants.h"
+i"ofAppBaseWindow.h"
+i"glut.h"
+i<GLUT/glut.h>
+i<GL/glut.h>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/app/ofAppRunner.h
+c000000004CE42E08000000000000050D
+t1290022408
+s1293
+i"ofMain.h"
+i"ofBaseApp.h"
+i"ofAppBaseWindow.h"
+i"ofAppGlutWindow.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/app/ofBaseApp.h
+c000000004CE42E080000000000000376
+t1290022408
+s886
+i"ofTypes.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/communication/ofArduino.h
+c000000004CE42E080000000000003D3C
+t1290022408
+s15676
+i<list>
+i<vector>
+i<string>
+i<iostream>
+i"ofEvents.h"
+i"ofSerial.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/communication/ofSerial.h
+c000000004CE42E080000000000000D2E
+t1290022408
+s3374
+i"ofConstants.h"
+i<termios.h>
+i<sys/ioctl.h>
+i<getopt.h>
+i<dirent.h>
+i<winbase.h>
+i<tchar.h>
+i<iostream>
+i<string.h>
+i<setupapi.h>
+i<regstr.h>
+i<winioctl.h>
+i<initguid.h>
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<fcntl.h>
+i<errno.h>
+i<ctype.h>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/events/ofEventUtils.h
+c000000004CE42E080000000000000AFA
+t1290022408
+s2810
+i"ofConstants.h"
+i"Poco/FIFOEvent.h"
+i"Poco/Delegate.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/graphics/ofBitmapFont.h
+c000000004CE42E080000000000000206
+t1290022408
+s518
+i"ofConstants.h"
+i"ofTexture.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/graphics/ofGraphics.h
+c000000004CE42E080000000000000D63
+t1290022408
+s3427
+i"ofConstants.h"
+i"ofTypes.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/graphics/ofImage.h
+c000000004CE42E080000000000000D09
+t1290022408
+s3337
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofGraphics.h"
+i"ofAppRunner.h"
+i"FreeImage.h"
+i"ofUtils.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/graphics/ofTexture.h
+c000000004CE42E080000000000000C4B
+t1290022408
+s3147
+i"ofConstants.h"
+i"ofGraphics.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/graphics/ofTrueTypeFont.h
+c000000004CE42E08000000000000087A
+t1290022408
+s2170
+i"ofConstants.h"
+i"ofGraphics.h"
+i"ofUtils.h"
+i"ofTypes.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/sound/ofSoundPlayer.h
+c000000004CE42E0800000000000006C3
+t1290022408
+s1731
+i"ofConstants.h"
+i"fmod.h"
+i"fmod_errors.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/sound/ofSoundStream.h
+c000000004CE42E080000000000000254
+t1290022408
+s596
+i"ofConstants.h"
+i"ofBaseApp.h"
+i"ofEvents.h"
+i"ofMath.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/utils/ofConstants.h
+c000000004CE42E080000000000002ACC
+t1290022408
+s10956
+i<TargetConditionals.h>
+i<windows.h>
+i"GLee.h"
+i"glu.h"
+i<unistd.h>
+i"GLee.h"
+i<OpenGL/glu.h>
+i<ApplicationServices/ApplicationServices.h>
+i<unistd.h>
+i"GLee.h"
+i<GL/glu.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<cstdlib>
+i<cstdio>
+i<cstdarg>
+i<cmath>
+i<ctime>
+i<cstdlib>
+i<string>
+i<iostream>
+i<vector>
+i<cstring>
+i<sstream>
+i<iomanip>
+i<fstream>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/utils/ofMath.h
+c000000004CE42E080000000000000A66
+t1290022408
+s2662
+i"ofConstants.h"
+i"ofTypes.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/utils/ofNoise.h
+c000000004CE42E080000000000004F24
+t1290022408
+s20260
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/utils/ofTypes.h
+c000000004CE42E080000000000001D5F
+t1290022408
+s7519
+i"ofConstants.h"
+i"ofUtils.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/utils/ofUtils.h
+c000000004CE42E0800000000000005A4
+t1290022408
+s1444
+i"ofConstants.h"
+i<shellapi.h>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/video/ofGstUtils.h
+c000000004CE42E080000000000000B55
+t1290022408
+s2901
+i<gst/gst.h>
+i<pthread.h>
+i"ofConstants.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/video/ofQtUtils.h
+c000000004CE42E0800000000000006CF
+t1290022408
+s1743
+i"ofConstants.h"
+i"ofGraphics.h"
+i<QuickTime/QuickTime.h>
+i<CoreServices/CoreServices.h>
+i<ApplicationServices/ApplicationServices.h>
+i<QTML.h>
+i<FixMath.h>
+i<QuickTimeComponents.h>
+i<TextUtils.h>
+i<MediaHandlers.h>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/video/ofVideoGrabber.h
+c000000004CE42E080000000000000C9C
+t1290022408
+s3228
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofGraphics.h"
+i"ofTypes.h"
+i"ofQtUtils.h"
+i"videoInput.h"
+i"ofUCUtils.h"
+i"ofGstUtils.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/video/ofVideoPlayer.h
+c000000004CE42E080000000000000C33
+t1290022408
+s3123
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofGstUtils.h"
+i"ofQtUtils.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/AbstractDelegate.h
+c000000004CE42E080000000000000B2E
+t1290022408
+s2862
+i"Poco/Foundation.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/AbstractEvent.h
+c000000004CE42E080000000000002C6A
+t1290022408
+s11370
+i"Poco/Foundation.h"
+i"Poco/SingletonHolder.h"
+i"Poco/SharedPtr.h"
+i"Poco/ActiveResult.h"
+i"Poco/ActiveMethod.h"
+i"Poco/Mutex.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ActiveMethod.h
+c000000004CE42E080000000000001C64
+t1290022408
+s7268
+i"Poco/Foundation.h"
+i"Poco/ActiveResult.h"
+i"Poco/ActiveRunnable.h"
+i"Poco/ActiveStarter.h"
+i"Poco/AutoPtr.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ActiveResult.h
+c000000004CE42E080000000000002E66
+t1290022408
+s11878
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+i"Poco/Event.h"
+i"Poco/RefCountedObject.h"
+i"Poco/Exception.h"
+i<algorithm>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ActiveRunnable.h
+c000000004CE42E080000000000001785
+t1290022408
+s6021
+i"Poco/Foundation.h"
+i"Poco/ActiveResult.h"
+i"Poco/Runnable.h"
+i"Poco/RefCountedObject.h"
+i"Poco/AutoPtr.h"
+i"Poco/Exception.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ActiveStarter.h
+c000000004CE42E080000000000000927
+t1290022408
+s2343
+i"Poco/Foundation.h"
+i"Poco/ThreadPool.h"
+i"Poco/ActiveRunnable.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/AutoPtr.h
+c000000004CE42E080000000000001E0C
+t1290022408
+s7692
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<algorithm>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Bugcheck.h
+c000000004CE42E0800000000000012FE
+t1290022408
+s4862
+i"Poco/Foundation.h"
+i<string>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/CompareFunctions.h
+c000000004CE42E0800000000000007EC
+t1290022408
+s2028
+i"Poco/Foundation.h"
+i<functional>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Config.h
+c000000004CE42E0800000000000008B5
+t1290022408
+s2229
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Delegate.h
+c000000004CE42E080000000000001802
+t1290022408
+s6146
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/FunctionDelegate.h"
+i"Poco/Expire.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Event.h
+c000000004CE42E080000000000000E21
+t1290022408
+s3617
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/Event_WIN32.h"
+i"Poco/Event_POSIX.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Event_POSIX.h
+c000000004CE42E080000000000000A91
+t1290022408
+s2705
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<pthread.h>
+i<errno.h>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Event_WIN32.h
+c000000004CE42E080000000000000947
+t1290022408
+s2375
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Exception.h
+c000000004CE42E0800000000000026AC
+t1290022408
+s9900
+i"Poco/Foundation.h"
+i<stdexcept>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Expire.h
+c000000004CE42E080000000000000CF1
+t1290022408
+s3313
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/Timestamp.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/FIFOEvent.h
+c000000004CE42E080000000000000AD4
+t1290022408
+s2772
+i"Poco/AbstractEvent.h"
+i"Poco/FIFOStrategy.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/CompareFunctions.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/FIFOStrategy.h
+c000000004CE42E0800000000000010F3
+t1290022408
+s4339
+i"Poco/NotificationStrategy.h"
+i<map>
+i<list>
+i<memory>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Foundation.h
+c000000004CE42E080000000000001023
+t1290022408
+s4131
+i"Poco/Config.h"
+i"Poco/Platform.h"
+i"Poco/Platform_WIN32.h"
+i"Poco/Platform_VMS.h"
+i"Poco/Platform_POSIX.h"
+i"Poco/Bugcheck.h"
+i"Poco/Types.h"
+i<string>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/FunctionDelegate.h
+c000000004CE42E0800000000000013CA
+t1290022408
+s5066
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Mutex.h
+c000000004CE42E080000000000001A61
+t1290022408
+s6753
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/ScopedLock.h"
+i"Poco/Mutex_WIN32.h"
+i"Poco/Mutex_POSIX.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Mutex_POSIX.h
+c000000004CE42E080000000000000AC3
+t1290022408
+s2755
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<pthread.h>
+i<errno.h>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Mutex_WIN32.h
+c000000004CE42E080000000000000A07
+t1290022408
+s2567
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/NotificationStrategy.h
+c000000004CE42E080000000000000A37
+t1290022408
+s2615
+i"Poco/Foundation.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Platform.h
+c000000004CE42E080000000000001A3A
+t1290022408
+s6714
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Platform_POSIX.h
+c000000004CE42E080000000000000843
+t1290022408
+s2115
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Platform_VMS.h
+c000000004CE42E080000000000000BAA
+t1290022408
+s2986
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Platform_WIN32.h
+c000000004CE42E080000000000000D4D
+t1290022408
+s3405
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/RefCountedObject.h
+c000000004CE42E080000000000000B10
+t1290022408
+s2832
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Runnable.h
+c000000004CE42E080000000000000861
+t1290022408
+s2145
+i"Poco/Foundation.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ScopedLock.h
+c000000004CE42E0800000000000008EB
+t1290022408
+s2283
+i"Poco/Foundation.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/SharedPtr.h
+c000000004CE42E0800000000000021DE
+t1290022408
+s8670
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/Mutex.h"
+i<algorithm>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/SignalHandler.h
+c000000004CE42E0800000000000011EB
+t1290022408
+s4587
+i"Poco/Foundation.h"
+i<vector>
+i<setjmp.h>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/SingletonHolder.h
+c000000004CE42E080000000000000A64
+t1290022408
+s2660
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Thread.h
+c000000004CE42E080000000000001C3A
+t1290022408
+s7226
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+i"Poco/Thread_WIN32.h"
+i"Poco/Thread_POSIX.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ThreadPool.h
+c000000004CE42E080000000000001849
+t1290022408
+s6217
+i"Poco/Foundation.h"
+i"Poco/Thread.h"
+i"Poco/Mutex.h"
+i<vector>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Thread_POSIX.h
+c000000004CE42E0800000000000012A8
+t1290022408
+s4776
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/SignalHandler.h"
+i"Poco/Event.h"
+i"Poco/RefCountedObject.h"
+i"Poco/AutoPtr.h"
+i<pthread.h>
+i<sys/select.h>
+i<errno.h>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Thread_WIN32.h
+c000000004CE42E08000000000000106C
+t1290022408
+s4204
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/UnWindows.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Timestamp.h
+c000000004CE42E0A00000000000019A7
+t1290022410
+s6567
+i"Poco/Foundation.h"
+i<ctime>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Types.h
+c000000004CE42E0A0000000000001910
+t1290022410
+s6416
+i"Poco/Foundation.h"
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/UnWindows.h
+c000000004CE42E0A0000000000000FD1
+t1290022410
+s4049
+i<windows.h>
+
+N/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/libs/rtAudio/include/RtError.h
+c000000004CE42E0E0000000000000846
+t1290022414
+s2118
+i<exception>
+i<iostream>
+i<string>
+
+N/usr/include/TargetConditionals.h
+c000000004A11A9B300000000000031E9
+t1242671539
+s12777
+
+N/usr/include/ctype.h
+c000000004A5C14A60000000000002C18
+t1247548582
+s11288
+
+N/usr/include/dirent.h
+c000000004A5C14A700000000000016D3
+t1247548583
+s5843
+
+N/usr/include/errno.h
+c000000004A5C14A600000000000003EB
+t1247548582
+s1003
+
+N/usr/include/fcntl.h
+c000000004A5C14A600000000000003EA
+t1247548582
+s1002
+
+N/usr/include/getopt.h
+c000000004A5C14A60000000000000CBC
+t1247548582
+s3260
+
+N/usr/include/inttypes.h
+c000000004A5C14A600000000000027D1
+t1247548582
+s10193
+
+N/usr/include/mach-o/dyld.h
+c000000004AB98DF40000000000003D47
+t1253674484
+s15687
+
+N/usr/include/pthread.h
+c000000004A5C14A700000000000038F0
+t1247548583
+s14576
+
+N/usr/include/setjmp.h
+c000000004A5C14A60000000000000438
+t1247548582
+s1080
+
+N/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/usr/include/sys/_types.h
+c000000004A73D6560000000000001845
+t1249105494
+s6213
+
+N/usr/include/sys/ioctl.h
+c000000004A73D651000000000000116C
+t1249105489
+s4460
+
+N/usr/include/sys/select.h
+c000000004A73D65400000000000016A2
+t1249105492
+s5794
+
+N/usr/include/sys/time.h
+c000000004A73D6550000000000001E17
+t1249105493
+s7703
+
+N/usr/include/termios.h
+c000000004A5C14A600000000000004D4
+t1247548582
+s1236
+
+N/usr/include/unistd.h
+c000000004A5C14A7000000000000563E
+t1247548583
+s22078
+
+N/usr/include/wchar.h
+c000000004A5C14A700000000000025DA
+t1247548583
+s9690
+
+N/var/folders/WN/WNgB7daFEEiqj6uSEEUaRk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Carbon-aoiijukajpcbifbjmipvksnvbvee/Carbon.h.gch
+t1297156642
+s53679920
+
+NopenFrameworks-Info.plist
+c0000000045E1F16E0000000000000277
+t1172435310
+s631
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318849412#318849412#0(121"[WARN]Warning: The Copy Bundle Resources build phase contains this target's Info.plist file 'openFrameworks-Info.plist'.1(22@114"Warning: The Copy Bundle Resources build phase contains this target's Info.plist file 'openFrameworks-Info.plist'.318849412#18446744073709551615#0#0(1@0"0(0#1#0"8617060416#0"0#
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/main.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s318849442.616384
+e318849458.446451
+r0
+xCompileC
+xbuild/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/main.o
+x/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,
+o                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp:1:
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:8:18: error: fmod.h: No such file or directory
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:9:25: error: fmod_errors.h: No such file or directory
+oIn file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,
+o                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp:1:
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:74: error: 'FMOD_RESULT' does not name a type
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: expected ';' before '*' token
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: ISO C++ forbids declaration of 'FMOD_SOUND' with no type
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: expected ';' before '*' token
+lSLF07#2@115"Compile /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp318849442#318849458#0(1973"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp:1:/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:8:18: error: fmod.h: No such file or directory/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:9:25: error: fmod_errors.h: No such file or directoryIn file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp:1:/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:74: error: 'FMOD_RESULT' does not name a type/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: expected ';' before '*' token/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: ISO C++ forbids declaration of 'FMOD_SOUND' with no type/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: expected ';' before '*' token7(4@33"Fmod.h: No such file or directory318849443#292#193#3(7@129"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp318849443#18446744073709551615#0#0(6@107"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp277547084#1#0#1#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849443#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@182"Fmod.h: No such file or directory in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849443#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#8#0#8#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#8#0#8#0#28"*: No such file or directory0(4@40"Fmod_errors.h: No such file or directory318849443#485#200#3(7@129"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp318849443#18446744073709551615#0#0(6@107"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp277547084#1#0#1#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849443#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@189"Fmod_errors.h: No such file or directory in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849443#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#9#0#9#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#9#0#9#0#28"*: No such file or directory0(4@34"'FMOD_RESULT' does not name a type318849446#977#192#3(7@129"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp318849446#18446744073709551615#0#0(6@107"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp277547084#1#0#1#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849446#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@183"'FMOD_RESULT' does not name a type in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849446#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#74#0#74#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#74#0#74#0#24"'*' does not name a type0(4@58"ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type318849446#1169#216#3(7@129"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp318849446#18446744073709551615#0#0(6@107"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp277547084#1#0#1#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849446#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@207"ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849446#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#47"ISO C++ forbids declaration of '*' with no type0(4@29"Expected ';' before '*' token318849446#1385#187#3(7@129"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp318849446#18446744073709551615#0#0(6@107"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp277547084#1#0#1#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849446#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@178"Expected ';' before '*' token in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849446#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#19"expected * before *0(4@56"ISO C++ forbids declaration of 'FMOD_SOUND' with no type318849446#1572#214#3(7@129"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp318849446#18446744073709551615#0#0(6@107"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp277547084#1#0#1#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849446#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@205"ISO C++ forbids declaration of 'FMOD_SOUND' with no type in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849446#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#47"ISO C++ forbids declaration of '*' with no type0(4@29"Expected ';' before '*' token318849446#1786#187#3(7@129"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp318849446#18446744073709551615#0#0(6@107"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp277547084#1#0#1#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849446#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@178"Expected ';' before '*' token in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849446#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#19"expected * before *0(0#0#107"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp8617310304#1558"    cd /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/openFrameworksDebug.hmap -F/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin/include -I../../../libs/poco/include -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/DerivedSources/i386 -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/WN/WNgB7daFEEiqj6uSEEUaRk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Carbon-aoiijukajpcbifbjmipvksnvbvee/Carbon.h -c /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/main.cpp -o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/main.o1#
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s318849458.447032
+e318849464.026490
+r0
+xCompileC
+xbuild/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o
+x/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,
+o                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp:3:
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:8:18: error: fmod.h: No such file or directory
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:9:25: error: fmod_errors.h: No such file or directory
+oIn file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,
+o                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp:3:
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:74: error: 'FMOD_RESULT' does not name a type
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: expected ';' before '*' token
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: ISO C++ forbids declaration of 'FMOD_SOUND' with no type
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: expected ';' before '*' token
+lSLF07#2@155"Compile /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp318849458#318849464#0(2053"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp:3:/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:8:18: error: fmod.h: No such file or directory/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:9:25: error: fmod_errors.h: No such file or directoryIn file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp:3:/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:74: error: 'FMOD_RESULT' does not name a type/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: expected ';' before '*' token/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: ISO C++ forbids declaration of 'FMOD_SOUND' with no type/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: expected ';' before '*' token7(4@33"Fmod.h: No such file or directory318849459#332#193#3(7@169"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp318849459#18446744073709551615#0#0(6@147"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp311715208#3#0#3#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849459#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@182"Fmod.h: No such file or directory in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849459#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#8#0#8#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#8#0#8#0#28"*: No such file or directory0(4@40"Fmod_errors.h: No such file or directory318849459#525#200#3(7@169"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp318849459#18446744073709551615#0#0(6@147"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp311715208#3#0#3#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849459#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@189"Fmod_errors.h: No such file or directory in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849459#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#9#0#9#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#9#0#9#0#28"*: No such file or directory0(4@34"'FMOD_RESULT' does not name a type318849459#1057#192#3(7@169"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp318849459#18446744073709551615#0#0(6@147"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp311715208#3#0#3#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849459#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@183"'FMOD_RESULT' does not name a type in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849459#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#74#0#74#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#74#0#74#0#24"'*' does not name a type0(4@58"ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type318849459#1249#216#3(7@169"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp318849459#18446744073709551615#0#0(6@147"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp311715208#3#0#3#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849459#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@207"ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849459#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#47"ISO C++ forbids declaration of '*' with no type0(4@29"Expected ';' before '*' token318849459#1465#187#3(7@169"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp318849459#18446744073709551615#0#0(6@147"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp311715208#3#0#3#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849459#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@178"Expected ';' before '*' token in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849459#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#19"expected * before *0(4@56"ISO C++ forbids declaration of 'FMOD_SOUND' with no type318849459#1652#214#3(7@169"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp318849459#18446744073709551615#0#0(6@147"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp311715208#3#0#3#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849459#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@205"ISO C++ forbids declaration of 'FMOD_SOUND' with no type in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849459#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#47"ISO C++ forbids declaration of '*' with no type0(4@29"Expected ';' before '*' token318849459#1866#187#3(7@169"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp318849459#18446744073709551615#0#0(6@147"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp311715208#3#0#3#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849459#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@178"Expected ';' before '*' token in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849459#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#19"expected * before *0(0#0#147"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp8613329152#1609"    cd /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/openFrameworksDebug.hmap -F/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin/include -I../../../libs/poco/include -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/DerivedSources/i386 -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/WN/WNgB7daFEEiqj6uSEEUaRk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Carbon-aoiijukajpcbifbjmipvksnvbvee/Carbon.h -c /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppGlutWindow.cpp -o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o1#
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofAppRunner.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s318849458.467540
+e318849464.511387
+r0
+xCompileC
+xbuild/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofAppRunner.o
+x/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,
+o                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h:5,
+o                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp:1:
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:8:18: error: fmod.h: No such file or directory
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:9:25: error: fmod_errors.h: No such file or directory
+oIn file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,
+o                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h:5,
+o                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp:1:
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:74: error: 'FMOD_RESULT' does not name a type
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: expected ';' before '*' token
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: ISO C++ forbids declaration of 'FMOD_SOUND' with no type
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: expected ';' before '*' token
+lSLF07#2@151"Compile /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp318849458#318849464#0(2379"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h:5,                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp:1:/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:8:18: error: fmod.h: No such file or directory/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:9:25: error: fmod_errors.h: No such file or directoryIn file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h:5,                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp:1:/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:74: error: 'FMOD_RESULT' does not name a type/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: expected ';' before '*' token/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: ISO C++ forbids declaration of 'FMOD_SOUND' with no type/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: expected ';' before '*' token7(4@33"Fmod.h: No such file or directory318849459#495#193#4(7@165"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp318849459#18446744073709551615#0#0(6@143"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp311715208#1#0#1#0#0"0(7@163"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h318849459#18446744073709551615#0#0(6@141"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h311715208#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849459#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@182"Fmod.h: No such file or directory in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849459#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#8#0#8#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#8#0#8#0#28"*: No such file or directory0(4@40"Fmod_errors.h: No such file or directory318849459#688#200#4(7@165"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp318849459#18446744073709551615#0#0(6@143"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp311715208#1#0#1#0#0"0(7@163"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h318849459#18446744073709551615#0#0(6@141"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h311715208#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849459#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@189"Fmod_errors.h: No such file or directory in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849459#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#9#0#9#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#9#0#9#0#28"*: No such file or directory0(4@34"'FMOD_RESULT' does not name a type318849459#1383#192#4(7@165"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp318849459#18446744073709551615#0#0(6@143"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp311715208#1#0#1#0#0"0(7@163"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h318849459#18446744073709551615#0#0(6@141"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h311715208#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849459#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@183"'FMOD_RESULT' does not name a type in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849459#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#74#0#74#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#74#0#74#0#24"'*' does not name a type0(4@58"ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type318849459#1575#216#4(7@165"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp318849459#18446744073709551615#0#0(6@143"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp311715208#1#0#1#0#0"0(7@163"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h318849459#18446744073709551615#0#0(6@141"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h311715208#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849459#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@207"ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849459#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#47"ISO C++ forbids declaration of '*' with no type0(4@29"Expected ';' before '*' token318849459#1791#187#4(7@165"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp318849459#18446744073709551615#0#0(6@143"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp311715208#1#0#1#0#0"0(7@163"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h318849459#18446744073709551615#0#0(6@141"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h311715208#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849459#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@178"Expected ';' before '*' token in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849459#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#19"expected * before *0(4@56"ISO C++ forbids declaration of 'FMOD_SOUND' with no type318849459#1978#214#4(7@165"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp318849459#18446744073709551615#0#0(6@143"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp311715208#1#0#1#0#0"0(7@163"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h318849459#18446744073709551615#0#0(6@141"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h311715208#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849459#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@205"ISO C++ forbids declaration of 'FMOD_SOUND' with no type in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849459#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#47"ISO C++ forbids declaration of '*' with no type0(4@29"Expected ';' before '*' token318849459#2192#187#4(7@165"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp318849459#18446744073709551615#0#0(6@143"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp311715208#1#0#1#0#0"0(7@163"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h318849459#18446744073709551615#0#0(6@141"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h311715208#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849459#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@178"Expected ';' before '*' token in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849459#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#19"expected * before *0(0#0#143"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp8613085056#1601"    cd /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/openFrameworksDebug.hmap -F/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin/include -I../../../libs/poco/include -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/DerivedSources/i386 -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/WN/WNgB7daFEEiqj6uSEEUaRk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Carbon-aoiijukajpcbifbjmipvksnvbvee/Carbon.h -c /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.cpp -o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofAppRunner.o1#
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofArduino.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofArduino.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s318849464.511486
+e318849467.677500
+r1
+xCompileC
+xbuild/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofArduino.o
+x/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofArduino.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@159"Compile /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofArduino.cpp318849464#318849467#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#151"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofArduino.cpp8610399104#1607"    cd /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/openFrameworksDebug.hmap -F/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin/include -I../../../libs/poco/include -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/DerivedSources/i386 -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/WN/WNgB7daFEEiqj6uSEEUaRk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Carbon-aoiijukajpcbifbjmipvksnvbvee/Carbon.h -c /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofArduino.cpp -o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofArduino.o0#
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofBitmapFont.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofBitmapFont.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s318849468.703509
+e318849469.333344
+r1
+xCompileC
+xbuild/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofBitmapFont.o
+x/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofBitmapFont.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@157"Compile /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofBitmapFont.cpp318849468#318849469#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#149"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofBitmapFont.cpp8614652416#1608"    cd /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/openFrameworksDebug.hmap -F/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin/include -I../../../libs/poco/include -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/DerivedSources/i386 -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/WN/WNgB7daFEEiqj6uSEEUaRk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Carbon-aoiijukajpcbifbjmipvksnvbvee/Carbon.h -c /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofBitmapFont.cpp -o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofBitmapFont.o0#
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofGraphics.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s318849469.333553
+e318849470.429969
+r0
+xCompileC
+xbuild/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofGraphics.o
+x/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,
+o                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h:5,
+o                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp:2:
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:8:18: error: fmod.h: No such file or directory
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:9:25: error: fmod_errors.h: No such file or directory
+oIn file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,
+o                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h:5,
+o                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp:2:
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:74: error: 'FMOD_RESULT' does not name a type
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: expected ';' before '*' token
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: ISO C++ forbids declaration of 'FMOD_SOUND' with no type
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: expected ';' before '*' token
+lSLF07#2@155"Compile /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp318849469#318849470#0(2387"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h:5,                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp:2:/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:8:18: error: fmod.h: No such file or directory/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:9:25: error: fmod_errors.h: No such file or directoryIn file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h:5,                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp:2:/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:74: error: 'FMOD_RESULT' does not name a type/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: expected ';' before '*' token/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: ISO C++ forbids declaration of 'FMOD_SOUND' with no type/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: expected ';' before '*' token7(4@33"Fmod.h: No such file or directory318849469#499#193#4(7@169"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp318849469#18446744073709551615#0#0(6@147"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp311715208#2#0#2#0#0"0(7@163"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h318849469#18446744073709551615#0#0(6@141"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h311715208#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849469#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@182"Fmod.h: No such file or directory in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849469#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#8#0#8#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#8#0#8#0#28"*: No such file or directory0(4@40"Fmod_errors.h: No such file or directory318849469#692#200#4(7@169"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp318849469#18446744073709551615#0#0(6@147"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp311715208#2#0#2#0#0"0(7@163"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h318849469#18446744073709551615#0#0(6@141"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h311715208#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849469#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@189"Fmod_errors.h: No such file or directory in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849469#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#9#0#9#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#9#0#9#0#28"*: No such file or directory0(4@34"'FMOD_RESULT' does not name a type318849470#1391#192#4(7@169"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp318849470#18446744073709551615#0#0(6@147"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp311715208#2#0#2#0#0"0(7@163"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h318849470#18446744073709551615#0#0(6@141"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h311715208#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849470#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@183"'FMOD_RESULT' does not name a type in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849470#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#74#0#74#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#74#0#74#0#24"'*' does not name a type0(4@58"ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type318849470#1583#216#4(7@169"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp318849470#18446744073709551615#0#0(6@147"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp311715208#2#0#2#0#0"0(7@163"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h318849470#18446744073709551615#0#0(6@141"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h311715208#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849470#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@207"ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849470#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#47"ISO C++ forbids declaration of '*' with no type0(4@29"Expected ';' before '*' token318849470#1799#187#4(7@169"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp318849470#18446744073709551615#0#0(6@147"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp311715208#2#0#2#0#0"0(7@163"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h318849470#18446744073709551615#0#0(6@141"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h311715208#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849470#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@178"Expected ';' before '*' token in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849470#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#19"expected * before *0(4@56"ISO C++ forbids declaration of 'FMOD_SOUND' with no type318849470#1986#214#4(7@169"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp318849470#18446744073709551615#0#0(6@147"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp311715208#2#0#2#0#0"0(7@163"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h318849470#18446744073709551615#0#0(6@141"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h311715208#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849470#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@205"ISO C++ forbids declaration of 'FMOD_SOUND' with no type in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849470#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#47"ISO C++ forbids declaration of '*' with no type0(4@29"Expected ';' before '*' token318849470#2200#187#4(7@169"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp318849470#18446744073709551615#0#0(6@147"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp311715208#2#0#2#0#0"0(7@163"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h318849470#18446744073709551615#0#0(6@141"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h311715208#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849470#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@178"Expected ';' before '*' token in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849470#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#19"expected * before *0(0#0#147"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp8617119008#1604"    cd /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/openFrameworksDebug.hmap -F/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin/include -I../../../libs/poco/include -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/DerivedSources/i386 -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/WN/WNgB7daFEEiqj6uSEEUaRk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Carbon-aoiijukajpcbifbjmipvksnvbvee/Carbon.h -c /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofGraphics.cpp -o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofGraphics.o1#
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofImage.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofImage.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s318849470.430065
+e318849471.211241
+r0
+xCompileC
+xbuild/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofImage.o
+x/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofImage.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,
+o                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h:5,
+o                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofImage.h:7,
+o                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofImage.cpp:1:
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:8:18: error: fmod.h: No such file or directory
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:9:25: error: fmod_errors.h: No such file or directory
+lSLF07#2@152"Compile /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofImage.cpp318849470#318849471#0(1057"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h:5,                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofImage.h:7,                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofImage.cpp:1:/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:8:18: error: fmod.h: No such file or directory/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:9:25: error: fmod_errors.h: No such file or directory2(4@33"Fmod.h: No such file or directory318849470#664#193#5(7@166"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofImage.cpp318849470#18446744073709551615#0#0(6@144"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofImage.cpp311715208#1#0#1#0#0"0(7@164"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofImage.h318849470#18446744073709551615#0#0(6@142"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofImage.h311715208#7#0#7#0#0"0(7@163"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h318849470#18446744073709551615#0#0(6@141"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h311715208#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849470#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@182"Fmod.h: No such file or directory in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849470#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#8#0#8#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#8#0#8#0#28"*: No such file or directory0(4@40"Fmod_errors.h: No such file or directory318849470#857#200#5(7@166"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofImage.cpp318849470#18446744073709551615#0#0(6@144"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofImage.cpp311715208#1#0#1#0#0"0(7@164"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofImage.h318849470#18446744073709551615#0#0(6@142"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofImage.h311715208#7#0#7#0#0"0(7@163"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h318849470#18446744073709551615#0#0(6@141"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/app/ofAppRunner.h311715208#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849470#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@189"Fmod_errors.h: No such file or directory in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849470#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#9#0#9#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#9#0#9#0#28"*: No such file or directory0(0#0#144"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofImage.cpp8610683360#1598"    cd /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/openFrameworksDebug.hmap -F/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin/include -I../../../libs/poco/include -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/DerivedSources/i386 -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/WN/WNgB7daFEEiqj6uSEEUaRk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Carbon-aoiijukajpcbifbjmipvksnvbvee/Carbon.h -c /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofImage.cpp -o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofImage.o2#
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofMath.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/utils/ofMath.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofQtUtils.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/video/ofQtUtils.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofSerial.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s318849467.677629
+e318849468.698601
+r0
+xCompileC
+xbuild/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofSerial.o
+x/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,
+o                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp:2:
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:8:18: error: fmod.h: No such file or directory
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:9:25: error: fmod_errors.h: No such file or directory
+oIn file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,
+o                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp:2:
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:74: error: 'FMOD_RESULT' does not name a type
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: expected ';' before '*' token
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: ISO C++ forbids declaration of 'FMOD_SOUND' with no type
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: expected ';' before '*' token
+lSLF07#2@158"Compile /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp318849467#318849468#0(2059"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp:2:/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:8:18: error: fmod.h: No such file or directory/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:9:25: error: fmod_errors.h: No such file or directoryIn file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp:2:/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:74: error: 'FMOD_RESULT' does not name a type/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: expected ';' before '*' token/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: ISO C++ forbids declaration of 'FMOD_SOUND' with no type/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: expected ';' before '*' token7(4@33"Fmod.h: No such file or directory318849467#335#193#3(7@172"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp318849467#18446744073709551615#0#0(6@150"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp311715208#2#0#2#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849467#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@182"Fmod.h: No such file or directory in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849467#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#8#0#8#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#8#0#8#0#28"*: No such file or directory0(4@40"Fmod_errors.h: No such file or directory318849467#528#200#3(7@172"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp318849467#18446744073709551615#0#0(6@150"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp311715208#2#0#2#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849467#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@189"Fmod_errors.h: No such file or directory in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849467#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#9#0#9#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#9#0#9#0#28"*: No such file or directory0(4@34"'FMOD_RESULT' does not name a type318849468#1063#192#3(7@172"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp318849468#18446744073709551615#0#0(6@150"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp311715208#2#0#2#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849468#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@183"'FMOD_RESULT' does not name a type in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849468#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#74#0#74#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#74#0#74#0#24"'*' does not name a type0(4@58"ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type318849468#1255#216#3(7@172"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp318849468#18446744073709551615#0#0(6@150"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp311715208#2#0#2#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849468#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@207"ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849468#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#47"ISO C++ forbids declaration of '*' with no type0(4@29"Expected ';' before '*' token318849468#1471#187#3(7@172"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp318849468#18446744073709551615#0#0(6@150"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp311715208#2#0#2#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849468#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@178"Expected ';' before '*' token in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849468#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#19"expected * before *0(4@56"ISO C++ forbids declaration of 'FMOD_SOUND' with no type318849468#1658#214#3(7@172"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp318849468#18446744073709551615#0#0(6@150"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp311715208#2#0#2#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849468#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@205"ISO C++ forbids declaration of 'FMOD_SOUND' with no type in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849468#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#47"ISO C++ forbids declaration of '*' with no type0(4@29"Expected ';' before '*' token318849468#1872#187#3(7@172"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp318849468#18446744073709551615#0#0(6@150"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp311715208#2#0#2#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849468#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@178"Expected ';' before '*' token in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849468#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#19"expected * before *0(0#0#150"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp8617001312#1605"    cd /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/openFrameworksDebug.hmap -F/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin/include -I../../../libs/poco/include -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/DerivedSources/i386 -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/WN/WNgB7daFEEiqj6uSEEUaRk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Carbon-aoiijukajpcbifbjmipvksnvbvee/Carbon.h -c /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofSerial.cpp -o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofSerial.o1#
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofSoundPlayer.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofSoundStream.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundStream.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofStandardFirmata.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofStandardFirmata.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s318849468.698710
+e318849468.703437
+r0
+xCompileC
+xbuild/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofStandardFirmata.o
+x/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofStandardFirmata.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofStandardFirmata.cpp: No such file or directory
+lSLF07#2@167"Compile /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofStandardFirmata.cpp318849468#318849468#0(277"i686-apple-darwin10-gcc-4.2.1: /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofStandardFirmata.cpp: No such file or directoryCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1318849468#18446744073709551615#0#0(1@0"0(0#0#159"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofStandardFirmata.cpp8602834272#1623"    cd /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/openFrameworksDebug.hmap -F/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin/include -I../../../libs/poco/include -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/DerivedSources/i386 -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/WN/WNgB7daFEEiqj6uSEEUaRk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Carbon-aoiijukajpcbifbjmipvksnvbvee/Carbon.h -c /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/communication/ofStandardFirmata.cpp -o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofStandardFirmata.o1#
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofTexture.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofTexture.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofTrueTypeFont.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/graphics/ofTrueTypeFont.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofUCUtils.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/video/ofUCUtils.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofUtils.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/utils/ofUtils.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/video/ofVideoGrabber.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/video/ofVideoPlayer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofxFBOTexture.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/addons/ofxFBOTexture.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/ofxShader.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/addons/ofxShader.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/shaderZoom.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/examples/shaderZoom.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/testApp.o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s318849442.634014
+e318849458.446871
+r0
+xCompileC
+xbuild/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/testApp.o
+x/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,
+o                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.h:5,
+o                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp:1:
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:8:18: error: fmod.h: No such file or directory
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:9:25: error: fmod_errors.h: No such file or directory
+oIn file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,
+o                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.h:5,
+o                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp:1:
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:74: error: 'FMOD_RESULT' does not name a type
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: expected ';' before '*' token
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: ISO C++ forbids declaration of 'FMOD_SOUND' with no type
+o/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: expected ';' before '*' token
+lSLF07#2@118"Compile /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp318849442#318849458#0(2247"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.h:5,                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp:1:/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:8:18: error: fmod.h: No such file or directory/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:9:25: error: fmod_errors.h: No such file or directoryIn file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h:33,                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.h:5,                 from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp:1:/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:74: error: 'FMOD_RESULT' does not name a type/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:75: error: expected ';' before '*' token/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: ISO C++ forbids declaration of 'FMOD_SOUND' with no type/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h:76: error: expected ';' before '*' token7(4@33"Fmod.h: No such file or directory318849443#429#193#4(7@132"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp318849443#18446744073709551615#0#0(6@110"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp277577690#1#0#1#0#0"0(7@130"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.h318849443#18446744073709551615#0#0(6@108"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.h277548550#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849443#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@182"Fmod.h: No such file or directory in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849443#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#8#0#8#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#8#0#8#0#28"*: No such file or directory0(4@40"Fmod_errors.h: No such file or directory318849443#622#200#4(7@132"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp318849443#18446744073709551615#0#0(6@110"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp277577690#1#0#1#0#0"0(7@130"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.h318849443#18446744073709551615#0#0(6@108"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.h277548550#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849443#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@189"Fmod_errors.h: No such file or directory in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849443#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#9#0#9#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#9#0#9#0#28"*: No such file or directory0(4@34"'FMOD_RESULT' does not name a type318849446#1251#192#4(7@132"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp318849446#18446744073709551615#0#0(6@110"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp277577690#1#0#1#0#0"0(7@130"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.h318849446#18446744073709551615#0#0(6@108"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.h277548550#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849446#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@183"'FMOD_RESULT' does not name a type in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849446#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#74#0#74#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#74#0#74#0#24"'*' does not name a type0(4@58"ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type318849446#1443#216#4(7@132"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp318849446#18446744073709551615#0#0(6@110"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp277577690#1#0#1#0#0"0(7@130"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.h318849446#18446744073709551615#0#0(6@108"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.h277548550#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849446#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@207"ISO C++ forbids declaration of 'FMOD_CHANNEL' with no type in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849446#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#47"ISO C++ forbids declaration of '*' with no type0(4@29"Expected ';' before '*' token318849446#1659#187#4(7@132"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp318849446#18446744073709551615#0#0(6@110"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp277577690#1#0#1#0#0"0(7@130"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.h318849446#18446744073709551615#0#0(6@108"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.h277548550#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849446#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@178"Expected ';' before '*' token in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849446#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#75#0#75#0#19"expected * before *0(4@56"ISO C++ forbids declaration of 'FMOD_SOUND' with no type318849446#1846#214#4(7@132"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp318849446#18446744073709551615#0#0(6@110"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp277577690#1#0#1#0#0"0(7@130"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.h318849446#18446744073709551615#0#0(6@108"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.h277548550#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849446#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@205"ISO C++ forbids declaration of 'FMOD_SOUND' with no type in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849446#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#47"ISO C++ forbids declaration of '*' with no type0(4@29"Expected ';' before '*' token318849446#2060#187#4(7@132"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp318849446#18446744073709551615#0#0(6@110"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp277577690#1#0#1#0#0"0(7@130"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.h318849446#18446744073709551615#0#0(6@108"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.h277548550#5#0#5#0#0"0(7@154"In file included from /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h318849446#18446744073709551615#0#0(6@132"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/ofMain.h311715208#33#0#33#0#0"0(13@178"Expected ';' before '*' token in /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h318849446#18446744073709551615#0#0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#0"0(6@145"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/../../../libs/openFrameworks/sound/ofSoundPlayer.h311715208#76#0#76#0#19"expected * before *0(0#0#110"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp8612621056#1564"    cd /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/openFrameworksDebug.hmap -F/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin/include -I../../../libs/poco/include -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/DerivedSources/i386 -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/WN/WNgB7daFEEiqj6uSEEUaRk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Carbon-aoiijukajpcbifbjmipvksnvbvee/Carbon.h -c /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/src/testApp.cpp -o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Objects-normal/i386/testApp.o1#
+
+CCopyPlistFile /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin/openFrameworksDebug.app/Contents/Resources/openFrameworks-Info.plist openFrameworks-Info.plist
+s318849412.368029
+e318849412.849900
+r1
+xCopyPlistFile
+x/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin/openFrameworksDebug.app/Contents/Resources/openFrameworks-Info.plist
+xopenFrameworks-Info.plist
+lSLF07#2@30"Copy openFrameworks-Info.plist318849412#318849412#0(0"0(0#0#120"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/openFrameworks-Info.plist8613510624#370"    cd /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist openFrameworks-Info.plist --outdir /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin/openFrameworksDebug.app/Contents/Resources0#
+
+CLd /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin//openFrameworksDebug.app/Contents/MacOS/openFrameworksDebug normal i386
+r0
+
+CPhaseScriptExecution "Run Script" /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+r0
+
+CProcessInfoPlistFile /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin//openFrameworksDebug.app/Contents/Info.plist openFrameworks-Info.plist
+s318849412.365025
+e318849412.367951
+r1
+xProcessInfoPlistFile
+x/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin//openFrameworksDebug.app/Contents/Info.plist
+xopenFrameworks-Info.plist
+lSLF07#2@33"Process openFrameworks-Info.plist318849412#318849412#0(0"0(0#0#120"/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/openFrameworks-Info.plist8614151776#495"    cd /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated    builtin-infoPlistUtility openFrameworks-Info.plist -genpkginfo /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin//openFrameworksDebug.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin//openFrameworksDebug.app/Contents/Info.plist0#
+
+CProcessPCH++ /var/folders/WN/WNgB7daFEEiqj6uSEEUaRk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Carbon-aoiijukajpcbifbjmipvksnvbvee/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_2
+s318849412.850222
+e318849442.616172
+r1
+xProcessPCH++
+x/var/folders/WN/WNgB7daFEEiqj6uSEEUaRk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Carbon-aoiijukajpcbifbjmipvksnvbvee/Carbon.h.gch
+x/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@71"Precompile /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h318849412#318849442#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#60"/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h8606828896#1337"    cd /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/openFrameworksDebug.hmap -F/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin/include -I../../../libs/poco/include -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/DerivedSources/i386 -I/Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/build/openFrameworks.build/Debug/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h -o /var/folders/WN/WNgB7daFEEiqj6uSEEUaRk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Carbon-aoiijukajpcbifbjmipvksnvbvee/Carbon.h.gch0#
+
+CTouch /Users/soyoung/development/of_preRelease_v0062_osxSL_FAT/apps/myapps/_shaderZoomExampleUpdated/bin//openFrameworksDebug.app
+r0
+
